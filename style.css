@@ -9,6 +9,13 @@ body {
 }
 
 
-h1, p, div {
+p, div {
     text-align: center; 
+}
+
+.headers {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: antiquewhite;
+    color: black;
 }
